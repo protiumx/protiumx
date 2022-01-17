@@ -10,7 +10,7 @@
 [<img align="left" alt="Brian Mayo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/bdmayo/)
 [<img align="left" alt="@_protium | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_protium/)
 
-<br />
+---
 
 ### Latest Blog Posts
 
@@ -22,7 +22,7 @@
 - [Kitty configuration for the iTerm user](https://medium.com/@protiumx/kitty-configuration-for-the-iterm-user-41a390579a8c?source=rss-9a6d8fd7d59a------2)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
+---
 
 ### Activity
 
