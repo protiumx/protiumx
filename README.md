@@ -27,9 +27,9 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49359](https://github.com/golang/go/issues/49359) in [golang/go](https://github.com/golang/go)
-2. 🎉 Merged PR [#10](https://github.com/protiumx/blogpub/pull/10) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
-3. 💪 Opened PR [#10](https://github.com/protiumx/blogpub/pull/10) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
-4. 🎉 Merged PR [#9](https://github.com/protiumx/blogpub/pull/9) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
-5. 💪 Opened PR [#9](https://github.com/protiumx/blogpub/pull/9) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
+1. ❗️ Closed issue [#11](https://github.com/protiumx/blogpub/issues/11) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
+2. 🗣 Commented on [#11](https://github.com/protiumx/blogpub/issues/11) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
+3. 🗣 Commented on [#11](https://github.com/protiumx/blogpub/issues/11) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
+4. 🎉 Merged PR [#15](https://github.com/protiumx/blogpub/pull/15) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
+5. 💪 Opened PR [#15](https://github.com/protiumx/blogpub/pull/15) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
 <!--END_SECTION:activity-->
