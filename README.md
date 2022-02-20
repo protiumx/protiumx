@@ -27,9 +27,9 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/protiumx/blogpub/issues/11) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
-2. 🗣 Commented on [#11](https://github.com/protiumx/blogpub/issues/11) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
-3. 🗣 Commented on [#11](https://github.com/protiumx/blogpub/issues/11) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
-4. 🎉 Merged PR [#15](https://github.com/protiumx/blogpub/pull/15) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
-5. 💪 Opened PR [#15](https://github.com/protiumx/blogpub/pull/15) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
+1. 🗣 Commented on [#16](https://github.com/protiumx/blogpub/issues/16) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
+2. ❗️ Closed issue [#16](https://github.com/protiumx/blogpub/issues/16) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
+3. ❗️ Closed issue [#11](https://github.com/protiumx/blogpub/issues/11) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
+4. 🗣 Commented on [#11](https://github.com/protiumx/blogpub/issues/11) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
+5. 🗣 Commented on [#11](https://github.com/protiumx/blogpub/issues/11) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
 <!--END_SECTION:activity-->
