@@ -17,11 +17,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [blogpub@v0.4.1: host media on github for your blog posts](https://medium.com/@protiumx/blogpub-v0-4-1-host-media-on-github-for-your-blog-posts-9e1f8333d0d6?source=rss-9a6d8fd7d59a------2)
 - [Publish your blog articles everywhere with this github action](https://medium.com/@protiumx/publish-your-blog-articles-everywhere-with-this-github-action-f80b9f9882a8?source=rss-9a6d8fd7d59a------2)
 - [autoenv: relax, ansible will setup your dev environment for you](https://medium.com/@protiumx/autoenv-relax-ansible-will-setup-your-dev-environment-for-you-9b8e841a2f40?source=rss-9a6d8fd7d59a------2)
 - [Bash + GNU Stow: take a walk while your new macbook is being set up](https://medium.com/@protiumx/bash-gnu-stow-take-a-walk-while-your-new-macbook-is-being-set-up-351a6f2f9225?source=rss-9a6d8fd7d59a------2)
 - [Your new pretty and minimalist resume with LaTex](https://medium.com/@protiumx/your-new-pretty-and-minimalist-resume-with-latex-c716bbeb8d2b?source=rss-9a6d8fd7d59a------2)
-- [Kitty configuration for the iTerm user](https://medium.com/@protiumx/kitty-configuration-for-the-iterm-user-41a390579a8c?source=rss-9a6d8fd7d59a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Activity
