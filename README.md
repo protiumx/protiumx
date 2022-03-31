@@ -4,6 +4,8 @@
 - Currently learning **Rust**
 - Interested on: Cyber Security, IoT, open source, algorithms, Machine Learning
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protiumx&layout=compact&langs_count=8&hide=ruby,shell,vimscript,vue)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Connect with me:
 
