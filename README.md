@@ -29,9 +29,9 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/protiumx/blogpub/issues/16) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
-2. ❗️ Closed issue [#16](https://github.com/protiumx/blogpub/issues/16) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
-3. ❗️ Closed issue [#11](https://github.com/protiumx/blogpub/issues/11) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
-4. 🗣 Commented on [#11](https://github.com/protiumx/blogpub/issues/11) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
-5. 🗣 Commented on [#11](https://github.com/protiumx/blogpub/issues/11) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
+1. ❗️ Opened issue [#1846](https://github.com/actions/runner/issues/1846) in [actions/runner](https://github.com/actions/runner)
+2. 🗣 Commented on [#2253](https://github.com/helix-editor/helix/issues/2253) in [helix-editor/helix](https://github.com/helix-editor/helix)
+3. ❌ Closed PR [#2253](https://github.com/helix-editor/helix/pull/2253) in [helix-editor/helix](https://github.com/helix-editor/helix)
+4. 💪 Opened PR [#2253](https://github.com/helix-editor/helix/pull/2253) in [helix-editor/helix](https://github.com/helix-editor/helix)
+5. 🗣 Commented on [#5001](https://github.com/kovidgoyal/kitty/issues/5001) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
 <!--END_SECTION:activity-->
