@@ -29,9 +29,9 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1846](https://github.com/actions/runner/issues/1846) in [actions/runner](https://github.com/actions/runner)
-2. 🗣 Commented on [#2253](https://github.com/helix-editor/helix/issues/2253) in [helix-editor/helix](https://github.com/helix-editor/helix)
-3. ❌ Closed PR [#2253](https://github.com/helix-editor/helix/pull/2253) in [helix-editor/helix](https://github.com/helix-editor/helix)
-4. 💪 Opened PR [#2253](https://github.com/helix-editor/helix/pull/2253) in [helix-editor/helix](https://github.com/helix-editor/helix)
-5. 🗣 Commented on [#5001](https://github.com/kovidgoyal/kitty/issues/5001) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
+1. 🎉 Merged PR [#3](https://github.com/protiumx/blog/pull/3) in [protiumx/blog](https://github.com/protiumx/blog)
+2. 💪 Opened PR [#3](https://github.com/protiumx/blog/pull/3) in [protiumx/blog](https://github.com/protiumx/blog)
+3. 🎉 Merged PR [#2](https://github.com/protiumx/blog/pull/2) in [protiumx/blog](https://github.com/protiumx/blog)
+4. 💪 Opened PR [#2](https://github.com/protiumx/blog/pull/2) in [protiumx/blog](https://github.com/protiumx/blog)
+5. 🎉 Merged PR [#17](https://github.com/protiumx/blogpub/pull/17) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
 <!--END_SECTION:activity-->
