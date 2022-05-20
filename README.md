@@ -1,11 +1,12 @@
-## Hi there, I' Brian, a very curious human being.
+## Hi there, I' Brian
 
-- Currently working with **Go** and **NodeJS**
-- Currently learning **Rust**
-- Interested on: Cyber Security, IoT, open source, algorithms, Machine Learning
+- Currently working with `golang` and `node`
+- Currently learning `rust` and `elixir`
+- Interested on: Cyber Security, open source, algorithms, DevOps, electronics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protiumx&layout=compact&langs_count=8&hide=ruby,shell,vimscript,vue)](https://github.com/anuraghazra/github-readme-stats)
+![Git Stats](https://github-readme-stats.vercel.app/api?username=protiumx&show_icons=true&include_all_commits=true&count_private=true&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protiumx&layout=compact&langs_count=8&hide=ruby,shell,vimscript,vue)
 
 ### Connect with me:
 
