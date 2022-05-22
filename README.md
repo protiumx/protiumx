@@ -30,9 +30,9 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/protiumx/blog/pull/3) in [protiumx/blog](https://github.com/protiumx/blog)
-2. 💪 Opened PR [#3](https://github.com/protiumx/blog/pull/3) in [protiumx/blog](https://github.com/protiumx/blog)
-3. 🎉 Merged PR [#2](https://github.com/protiumx/blog/pull/2) in [protiumx/blog](https://github.com/protiumx/blog)
-4. 💪 Opened PR [#2](https://github.com/protiumx/blog/pull/2) in [protiumx/blog](https://github.com/protiumx/blog)
-5. 🎉 Merged PR [#17](https://github.com/protiumx/blogpub/pull/17) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
+1. 🎉 Merged PR [#3](https://github.com/protiumx/rq/pull/3) in [protiumx/rq](https://github.com/protiumx/rq)
+2. 💪 Opened PR [#3](https://github.com/protiumx/rq/pull/3) in [protiumx/rq](https://github.com/protiumx/rq)
+3. 🎉 Merged PR [#2](https://github.com/protiumx/rq/pull/2) in [protiumx/rq](https://github.com/protiumx/rq)
+4. 💪 Opened PR [#2](https://github.com/protiumx/rq/pull/2) in [protiumx/rq](https://github.com/protiumx/rq)
+5. 🎉 Merged PR [#1](https://github.com/protiumx/rq/pull/1) in [protiumx/rq](https://github.com/protiumx/rq)
 <!--END_SECTION:activity-->
