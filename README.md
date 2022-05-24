@@ -20,11 +20,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate an articles section in your github.io page](https://medium.com/@protiumx/automate-an-articles-section-in-your-github-io-page-f57e3272b39d?source=rss-9a6d8fd7d59a------2)
-- [kitty + zsh + powerlevel10k = ✨ aesthetics ✨](https://medium.com/@protiumx/kitty-zsh-powerlevel10k-aesthetics-b8d3125f301e?source=rss-9a6d8fd7d59a------2)
-- [blogpub@v0.4.1: host media on github for your blog posts](https://medium.com/@protiumx/blogpub-v0-4-1-host-media-on-github-for-your-blog-posts-9e1f8333d0d6?source=rss-9a6d8fd7d59a------2)
-- [Publish your blog articles everywhere with this github action](https://medium.com/@protiumx/publish-your-blog-articles-everywhere-with-this-github-action-f80b9f9882a8?source=rss-9a6d8fd7d59a------2)
-- [autoenv: relax, ansible will setup your dev environment for you](https://medium.com/@protiumx/autoenv-relax-ansible-will-setup-your-dev-environment-for-you-9b8e841a2f40?source=rss-9a6d8fd7d59a------2)
+- [An HTTP request parser with rust and pest.rs](https://protiumx.github.io/blog/posts/an-http-request-parser-with-rust-and-pest-rs/)
+- [Automate an articles section in your github.io page](https://protiumx.github.io/blog/posts/automate-an-articles-section-in-your-github-io-page/)
+- [kitty + zsh + powerlevel10k = ✨ aesthetics ✨](https://protiumx.github.io/blog/posts/kitty-zsh-powerlevel10k-aesthetics/)
+- [blogpub@v0.4.1: host media on github for your blog posts](https://protiumx.github.io/blog/posts/host-media-on-github-for-your-blog-posts/)
+- [Publish your blog articles everywhere with this github action](https://protiumx.github.io/blog/posts/publish-your-blog-articles-with-this-github-action/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Activity
