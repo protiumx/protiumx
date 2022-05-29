@@ -20,11 +20,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [An HTTP request parser with rust and pest.rs](https://protiumx.github.io/blog/posts/an-http-request-parser-with-rust-and-pest-rs/)
-- [Automate an articles section in your github.io page](https://protiumx.github.io/blog/posts/automate-an-articles-section-in-your-github-io-page/)
-- [kitty + zsh + powerlevel10k = ✨ aesthetics ✨](https://protiumx.github.io/blog/posts/kitty-zsh-powerlevel10k-aesthetics/)
-- [blogpub@v0.4.1: host media on github for your blog posts](https://protiumx.github.io/blog/posts/host-media-on-github-for-your-blog-posts/)
-- [Publish your blog articles everywhere with this github action](https://protiumx.github.io/blog/posts/publish-your-blog-articles-with-this-github-action/)
+- [My profile website is now a terminal](https://protiumx.dev/blog/posts/my-profile-website-is-now-a-terminal/)
+- [An HTTP request parser with rust and pest.rs](https://protiumx.dev/blog/posts/an-http-request-parser-with-rust-and-pest.rs/)
+- [Automate an articles section in your github.io page](https://protiumx.dev/blog/posts/automate-an-articles-section-in-your-github.io-page/)
+- [kitty + zsh + powerlevel10k = ✨ aesthetics ✨](https://protiumx.dev/blog/posts/kitty--zsh--powerlevel10k-aesthetics/)
+- [Publish your blog articles everywhere with this github action](https://protiumx.dev/blog/posts/publish-your-blog-articles-everywhere-with-this-github-action/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Activity
