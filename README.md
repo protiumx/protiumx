@@ -6,7 +6,7 @@
 
 ![Git Stats](https://github-readme-stats.vercel.app/api?username=protiumx&show_icons=true&include_all_commits=true&count_private=true&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protiumx&layout=compact&langs_count=8&hide=ruby,shell,vimscript,vue,scss,html)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=protiumx&layout=compact&langs_count=8&hide=ruby,vimscript,vue,scss,html)
 
 ### Connect with me:
 
