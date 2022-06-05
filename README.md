@@ -30,9 +30,9 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/protiumx/html-logger/issues/1) in [protiumx/html-logger](https://github.com/protiumx/html-logger)
-2. 🗣 Commented on [#1](https://github.com/protiumx/html-logger/issues/1) in [protiumx/html-logger](https://github.com/protiumx/html-logger)
-3. 🎉 Merged PR [#1](https://github.com/protiumx/protiumx.github.io/pull/1) in [protiumx/protiumx.github.io](https://github.com/protiumx/protiumx.github.io)
-4. 💪 Opened PR [#1](https://github.com/protiumx/protiumx.github.io/pull/1) in [protiumx/protiumx.github.io](https://github.com/protiumx/protiumx.github.io)
-5. 🎉 Merged PR [#20](https://github.com/protiumx/blogpub/pull/20) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
+1. 🎉 Merged PR [#8](https://github.com/protiumx/blog/pull/8) in [protiumx/blog](https://github.com/protiumx/blog)
+2. 💪 Opened PR [#8](https://github.com/protiumx/blog/pull/8) in [protiumx/blog](https://github.com/protiumx/blog)
+3. ❗️ Opened issue [#33](https://github.com/Karibash/storybook-addon-swc/issues/33) in [Karibash/storybook-addon-swc](https://github.com/Karibash/storybook-addon-swc)
+4. 🎉 Merged PR [#10](https://github.com/protiumx/rq/pull/10) in [protiumx/rq](https://github.com/protiumx/rq)
+5. 💪 Opened PR [#10](https://github.com/protiumx/rq/pull/10) in [protiumx/rq](https://github.com/protiumx/rq)
 <!--END_SECTION:activity-->
