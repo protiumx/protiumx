@@ -1,7 +1,7 @@
 ## Hi there, I' Brian
 
 - Currently working with `golang` and `node`
-- Currently learning `rust` and `elixir`
+- Learning and playing around with `rust` and `elixir`
 - Interested on: Cyber Security, open source, algorithms, DevOps, electronics
 
 ![Git Stats](https://github-readme-stats.vercel.app/api?username=protiumx&show_icons=true&include_all_commits=true&count_private=true&layout=compact)
