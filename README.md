@@ -1,21 +1,21 @@
 ## Hi there, I' Brian
 
+<p align="center">
+  <a href="https://github.com/protiumx"><img src="https://img.shields.io/badge/-protiumx-3a3a3a?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
+  <a href="https://protiumx.dev/"><img src="https://img.shields.io/badge/-protiumx.dev-ff5757?style=for-the-badge&logo=iterm2&logoColor=white" /></a>
+  <a href="https://protiumx.dev/blog"><img src="https://img.shields.io/badge/-protiumx's_blog-262654?style=for-the-badge&logo=hugo&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bdmayo"><img src="https://img.shields.io/badge/-Brian_Mayo-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_protium"><img src="https://img.shields.io/badge/-__protium-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://profile.codersrank.io/user/protiumx/"><img src="https://img.shields.io/badge/-protiumx-72a0a8?style=for-the-badge&logo=CodersRank&logoColor=white" /></a>
+</p>
+
 - Currently working with `golang` and `node`
 - Learning and playing around with `rust` and `elixir`
 - Interested on: Cyber Security, open source, algorithms, DevOps, electronics
 
-![Git Stats](https://github-readme-stats.vercel.app/api?username=protiumx&show_icons=true&include_all_commits=true&count_private=true&layout=compact)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=protiumx&layout=compact&langs_count=8&hide=ruby,vimscript,vue,scss,html)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=protiumx&layout=compact&langs_count=8&hide=ruby,vimscript,vue,scss,html)
-
-### Connect with me:
-
-[<img align="left" alt="Brian Mayo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/bdmayo/)
-[<img align="left" alt="@_protium | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_protium/)
-
-<br/>
-
----
+![stats](https://github-readme-stats.vercel.app/api?username=protiumx&show_icons=true&include_all_commits=true&count_private=true&layout=compact&custom_title=Stats)
 
 ### Latest Blog Posts
 
