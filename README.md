@@ -30,9 +30,9 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/protiumx/blogpub/issues/21) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
-2. 🎉 Merged PR [#22](https://github.com/protiumx/blogpub/pull/22) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
-3. ❗️ Closed issue [#21](https://github.com/protiumx/blogpub/issues/21) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
-4. 💪 Opened PR [#22](https://github.com/protiumx/blogpub/pull/22) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
-5. 🎉 Merged PR [#8](https://github.com/protiumx/blog/pull/8) in [protiumx/blog](https://github.com/protiumx/blog)
+1. 💪 Opened PR [#155](https://github.com/nvim-telescope/telescope-file-browser.nvim/pull/155) in [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim)
+2. 🗣 Commented on [#3467](https://github.com/starship/starship/issues/3467) in [starship/starship](https://github.com/starship/starship)
+3. 💪 Opened PR [#26](https://github.com/espanso/hub-frontend/pull/26) in [espanso/hub-frontend](https://github.com/espanso/hub-frontend)
+4. 🗣 Commented on [#7](https://github.com/espanso/website/issues/7) in [espanso/website](https://github.com/espanso/website)
+5. 🗣 Commented on [#21](https://github.com/protiumx/blogpub/issues/21) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
 <!--END_SECTION:activity-->
