@@ -30,9 +30,9 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#155](https://github.com/nvim-telescope/telescope-file-browser.nvim/issues/155) in [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim)
-2. 🎉 Merged PR [#12](https://github.com/protiumx/rq/pull/12) in [protiumx/rq](https://github.com/protiumx/rq)
-3. 💪 Opened PR [#155](https://github.com/nvim-telescope/telescope-file-browser.nvim/pull/155) in [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim)
-4. 🗣 Commented on [#3467](https://github.com/starship/starship/issues/3467) in [starship/starship](https://github.com/starship/starship)
-5. 💪 Opened PR [#26](https://github.com/espanso/hub-frontend/pull/26) in [espanso/hub-frontend](https://github.com/espanso/hub-frontend)
+1. ❌ Closed PR [#11](https://github.com/protiumx/rq/pull/11) in [protiumx/rq](https://github.com/protiumx/rq)
+2. 🗣 Commented on [#11](https://github.com/protiumx/rq/issues/11) in [protiumx/rq](https://github.com/protiumx/rq)
+3. 🎉 Merged PR [#14](https://github.com/protiumx/rq/pull/14) in [protiumx/rq](https://github.com/protiumx/rq)
+4. 🎉 Merged PR [#13](https://github.com/protiumx/rq/pull/13) in [protiumx/rq](https://github.com/protiumx/rq)
+5. 🗣 Commented on [#155](https://github.com/nvim-telescope/telescope-file-browser.nvim/issues/155) in [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim)
 <!--END_SECTION:activity-->
