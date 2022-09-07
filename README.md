@@ -1,12 +1,10 @@
 ## Hi there, I' Brian
 
 <p align="center">
-  <a href="https://github.com/protiumx"><img src="https://img.shields.io/badge/-protiumx-3a3a3a?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
-  <a href="https://protiumx.dev/"><img src="https://img.shields.io/badge/-protiumx.dev-ff5757?style=for-the-badge&logo=iterm2&logoColor=white" /></a>
-  <a href="https://protiumx.dev/blog"><img src="https://img.shields.io/badge/-protiumx's_blog-262654?style=for-the-badge&logo=hugo&logoColor=white" /></a>
+  <a href="https://protiumx.dev/"><img src="https://img.shields.io/badge/-website-ff5757?style=for-the-badge&logo=iterm2&logoColor=white" /></a>
+  <a href="https://protiumx.dev/blog"><img src="https://img.shields.io/badge/-blog-262654?style=for-the-badge&logo=hugo&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/bdmayo"><img src="https://img.shields.io/badge/-Brian_Mayo-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/_protium"><img src="https://img.shields.io/badge/-__protium-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://profile.codersrank.io/user/protiumx/"><img src="https://img.shields.io/badge/-protiumx-72a0a8?style=for-the-badge&logo=CodersRank&logoColor=white" /></a>
 </p>
 
 - Currently working with `golang` and `node`
