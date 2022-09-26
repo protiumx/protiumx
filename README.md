@@ -13,8 +13,6 @@
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=protiumx&layout=compact&langs_count=8&hide=ruby,vimscript,vue,scss,html)
 
-![stats](https://github-readme-stats.vercel.app/api?username=protiumx&show_icons=true&include_all_commits=true&count_private=true&layout=compact&custom_title=Stats)
-
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
