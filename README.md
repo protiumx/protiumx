@@ -26,9 +26,9 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/protiumx/simia/pull/1) in [protiumx/simia](https://github.com/protiumx/simia)
-2. 💪 Opened PR [#1](https://github.com/protiumx/simia/pull/1) in [protiumx/simia](https://github.com/protiumx/simia)
-3. 🗣 Commented on [#1](https://github.com/protiumx/dev.resume/issues/1) in [protiumx/dev.resume](https://github.com/protiumx/dev.resume)
-4. ❌ Closed PR [#11](https://github.com/protiumx/rq/pull/11) in [protiumx/rq](https://github.com/protiumx/rq)
-5. 🗣 Commented on [#11](https://github.com/protiumx/rq/issues/11) in [protiumx/rq](https://github.com/protiumx/rq)
+1. 💪 Opened PR [#2](https://github.com/protiumx/simia/pull/2) in [protiumx/simia](https://github.com/protiumx/simia)
+2. 🎉 Merged PR [#1](https://github.com/protiumx/simia/pull/1) in [protiumx/simia](https://github.com/protiumx/simia)
+3. 💪 Opened PR [#1](https://github.com/protiumx/simia/pull/1) in [protiumx/simia](https://github.com/protiumx/simia)
+4. 🗣 Commented on [#1](https://github.com/protiumx/dev.resume/issues/1) in [protiumx/dev.resume](https://github.com/protiumx/dev.resume)
+5. ❌ Closed PR [#11](https://github.com/protiumx/rq/pull/11) in [protiumx/rq](https://github.com/protiumx/rq)
 <!--END_SECTION:activity-->
