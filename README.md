@@ -1,12 +1,5 @@
 ## Hi there, I' Brian
 
-<p align="center">
-  <a href="https://protiumx.dev/"><img src="https://img.shields.io/badge/-website-ff5757?style=for-the-badge&logo=iterm2&logoColor=white" /></a>
-  <a href="https://protiumx.dev/blog"><img src="https://img.shields.io/badge/-blog-262654?style=for-the-badge&logo=hugo&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/bdmayo"><img src="https://img.shields.io/badge/-Brian_Mayo-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_protium"><img src="https://img.shields.io/badge/-__protium-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
 - Currently working with `golang` and `node`
 - Learning and playing around with `rust` and `elixir`
 - Interested on: Cyber Security, open source, algorithms, DevOps, electronics
@@ -32,3 +25,10 @@
 4. 🗣 Commented on [#1](https://github.com/protiumx/dev.resume/issues/1) in [protiumx/dev.resume](https://github.com/protiumx/dev.resume)
 5. ❌ Closed PR [#11](https://github.com/protiumx/rq/pull/11) in [protiumx/rq](https://github.com/protiumx/rq)
 <!--END_SECTION:activity-->
+
+<p align="center">
+  <a href="https://protiumx.dev/"><img src="https://img.shields.io/badge/-website-ff5757?style=for-the-badge&logo=iterm2&logoColor=white" /></a>
+  <a href="https://protiumx.dev/blog"><img src="https://img.shields.io/badge/-blog-262654?style=for-the-badge&logo=hugo&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bdmayo"><img src="https://img.shields.io/badge/-Brian_Mayo-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_protium"><img src="https://img.shields.io/badge/-__protium-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
