@@ -19,11 +19,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/protiumx/simia/pull/5) in [protiumx/simia](https://github.com/protiumx/simia)
-2. 💪 Opened PR [#5](https://github.com/protiumx/simia/pull/5) in [protiumx/simia](https://github.com/protiumx/simia)
-3. 🎉 Merged PR [#4](https://github.com/protiumx/simia/pull/4) in [protiumx/simia](https://github.com/protiumx/simia)
-4. 💪 Opened PR [#4](https://github.com/protiumx/simia/pull/4) in [protiumx/simia](https://github.com/protiumx/simia)
-5. 🎉 Merged PR [#3](https://github.com/protiumx/simia/pull/3) in [protiumx/simia](https://github.com/protiumx/simia)
+1. 🎉 Merged PR [#6](https://github.com/protiumx/simia/pull/6) in [protiumx/simia](https://github.com/protiumx/simia)
+2. 💪 Opened PR [#6](https://github.com/protiumx/simia/pull/6) in [protiumx/simia](https://github.com/protiumx/simia)
+3. 🎉 Merged PR [#5](https://github.com/protiumx/simia/pull/5) in [protiumx/simia](https://github.com/protiumx/simia)
+4. 💪 Opened PR [#5](https://github.com/protiumx/simia/pull/5) in [protiumx/simia](https://github.com/protiumx/simia)
+5. 🎉 Merged PR [#4](https://github.com/protiumx/simia/pull/4) in [protiumx/simia](https://github.com/protiumx/simia)
 <!--END_SECTION:activity-->
 
 <p align="center">
