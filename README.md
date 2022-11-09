@@ -2,7 +2,7 @@
 
 - Currently working with `golang` and `node`
 - Learning and playing around with `rust` and `elixir`
-- Interested on: Cyber Security, open source, algorithms, DevOps, electronics
+- Interested in: Cyber Security, open source, algorithms, DevOps, networking, electronics
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=protiumx&layout=compact&langs_count=8&hide=ruby,vimscript,vue,scss,html)
 
