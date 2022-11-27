@@ -19,11 +19,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/protiumx/blog/pull/9) in [protiumx/blog](https://github.com/protiumx/blog)
-2. 💪 Opened PR [#9](https://github.com/protiumx/blog/pull/9) in [protiumx/blog](https://github.com/protiumx/blog)
-3. 🎉 Merged PR [#4](https://github.com/protiumx/protiumx.github.io/pull/4) in [protiumx/protiumx.github.io](https://github.com/protiumx/protiumx.github.io)
-4. 💪 Opened PR [#4](https://github.com/protiumx/protiumx.github.io/pull/4) in [protiumx/protiumx.github.io](https://github.com/protiumx/protiumx.github.io)
-5. 🎉 Merged PR [#9](https://github.com/protiumx/simia/pull/9) in [protiumx/simia](https://github.com/protiumx/simia)
+1. 🗣 Commented on [#1598](https://github.com/wez/wezterm/issues/1598) in [wez/wezterm](https://github.com/wez/wezterm)
+2. ❗️ Opened issue [#56895](https://github.com/golang/go/issues/56895) in [golang/go](https://github.com/golang/go)
+3. 🎉 Merged PR [#10](https://github.com/protiumx/simia/pull/10) in [protiumx/simia](https://github.com/protiumx/simia)
+4. 💪 Opened PR [#10](https://github.com/protiumx/simia/pull/10) in [protiumx/simia](https://github.com/protiumx/simia)
+5. 🗣 Commented on [#1485](https://github.com/wez/wezterm/issues/1485) in [wez/wezterm](https://github.com/wez/wezterm)
 <!--END_SECTION:activity-->
 
 <p align="center">
