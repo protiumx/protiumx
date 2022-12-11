@@ -19,11 +19,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/protiumx/simia/pull/11) in [protiumx/simia](https://github.com/protiumx/simia)
-2. 💪 Opened PR [#11](https://github.com/protiumx/simia/pull/11) in [protiumx/simia](https://github.com/protiumx/simia)
-3. 🎉 Merged PR [#10](https://github.com/protiumx/blog/pull/10) in [protiumx/blog](https://github.com/protiumx/blog)
-4. 💪 Opened PR [#10](https://github.com/protiumx/blog/pull/10) in [protiumx/blog](https://github.com/protiumx/blog)
-5. 🗣 Commented on [#1598](https://github.com/wez/wezterm/issues/1598) in [wez/wezterm](https://github.com/wez/wezterm)
+1. 🎉 Merged PR [#12](https://github.com/protiumx/simia/pull/12) in [protiumx/simia](https://github.com/protiumx/simia)
+2. 💪 Opened PR [#12](https://github.com/protiumx/simia/pull/12) in [protiumx/simia](https://github.com/protiumx/simia)
+3. 🗣 Commented on [#24](https://github.com/protiumx/blogpub/issues/24) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
+4. 🗣 Commented on [#23](https://github.com/protiumx/blogpub/issues/23) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
+5. ❗️ Closed issue [#23](https://github.com/protiumx/blogpub/issues/23) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
 <!--END_SECTION:activity-->
 
 <p align="center">
