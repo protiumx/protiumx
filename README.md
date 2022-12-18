@@ -19,11 +19,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/protiumx/simia/pull/12) in [protiumx/simia](https://github.com/protiumx/simia)
-2. 💪 Opened PR [#12](https://github.com/protiumx/simia/pull/12) in [protiumx/simia](https://github.com/protiumx/simia)
-3. 🗣 Commented on [#24](https://github.com/protiumx/blogpub/issues/24) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
-4. 🗣 Commented on [#23](https://github.com/protiumx/blogpub/issues/23) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
-5. ❗️ Closed issue [#23](https://github.com/protiumx/blogpub/issues/23) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
+1. ❗️ Closed issue [#369](https://github.com/Clipy/Clipy/issues/369) in [Clipy/Clipy](https://github.com/Clipy/Clipy)
+2. 🎉 Merged PR [#12](https://github.com/protiumx/simia/pull/12) in [protiumx/simia](https://github.com/protiumx/simia)
+3. 💪 Opened PR [#12](https://github.com/protiumx/simia/pull/12) in [protiumx/simia](https://github.com/protiumx/simia)
+4. 🗣 Commented on [#24](https://github.com/protiumx/blogpub/issues/24) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
+5. 🗣 Commented on [#23](https://github.com/protiumx/blogpub/issues/23) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
 <!--END_SECTION:activity-->
 
 <p align="center">
