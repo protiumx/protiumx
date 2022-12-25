@@ -19,11 +19,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#369](https://github.com/Clipy/Clipy/issues/369) in [Clipy/Clipy](https://github.com/Clipy/Clipy)
-2. 🎉 Merged PR [#12](https://github.com/protiumx/simia/pull/12) in [protiumx/simia](https://github.com/protiumx/simia)
-3. 💪 Opened PR [#12](https://github.com/protiumx/simia/pull/12) in [protiumx/simia](https://github.com/protiumx/simia)
-4. 🗣 Commented on [#24](https://github.com/protiumx/blogpub/issues/24) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
-5. 🗣 Commented on [#23](https://github.com/protiumx/blogpub/issues/23) in [protiumx/blogpub](https://github.com/protiumx/blogpub)
+1. 💪 Opened PR [#2](https://github.com/protiumx/.dotfiles/pull/2) in [protiumx/.dotfiles](https://github.com/protiumx/.dotfiles)
+2. 🗣 Commented on [#155](https://github.com/nvim-telescope/telescope-file-browser.nvim/issues/155) in [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim)
+3. 🗣 Commented on [#155](https://github.com/nvim-telescope/telescope-file-browser.nvim/issues/155) in [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim)
+4. ❗️ Closed issue [#369](https://github.com/Clipy/Clipy/issues/369) in [Clipy/Clipy](https://github.com/Clipy/Clipy)
+5. 🎉 Merged PR [#12](https://github.com/protiumx/simia/pull/12) in [protiumx/simia](https://github.com/protiumx/simia)
 <!--END_SECTION:activity-->
 
 <p align="center">
