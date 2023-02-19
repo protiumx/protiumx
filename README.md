@@ -19,11 +19,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3077](https://github.com/wez/wezterm/issues/3077) in [wez/wezterm](https://github.com/wez/wezterm)
-2. 💪 Opened PR [#841](https://github.com/glepnir/lspsaga.nvim/pull/841) in [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim)
-3. ❗️ Opened issue [#2362](https://github.com/nvim-telescope/telescope.nvim/issues/2362) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
-4. 🗣 Commented on [#2016](https://github.com/nvim-telescope/telescope.nvim/issues/2016) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
-5. 🎉 Merged PR [#13](https://github.com/protiumx/simia/pull/13) in [protiumx/simia](https://github.com/protiumx/simia)
+1. 🗣 Commented on [#876](https://github.com/glepnir/lspsaga.nvim/issues/876) in [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim)
+2. ❗️ Opened issue [#3077](https://github.com/wez/wezterm/issues/3077) in [wez/wezterm](https://github.com/wez/wezterm)
+3. 💪 Opened PR [#841](https://github.com/glepnir/lspsaga.nvim/pull/841) in [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim)
+4. ❗️ Opened issue [#2362](https://github.com/nvim-telescope/telescope.nvim/issues/2362) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+5. 🗣 Commented on [#2016](https://github.com/nvim-telescope/telescope.nvim/issues/2016) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
 <!--END_SECTION:activity-->
 
 <p align="center">
