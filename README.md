@@ -19,11 +19,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#901](https://github.com/glepnir/lspsaga.nvim/issues/901) in [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim)
-2. ❗️ Opened issue [#83](https://github.com/numToStr/FTerm.nvim/issues/83) in [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim)
-3. 🗣 Commented on [#876](https://github.com/glepnir/lspsaga.nvim/issues/876) in [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim)
-4. ❗️ Opened issue [#3077](https://github.com/wez/wezterm/issues/3077) in [wez/wezterm](https://github.com/wez/wezterm)
-5. 💪 Opened PR [#841](https://github.com/glepnir/lspsaga.nvim/pull/841) in [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim)
+1. ❗️ Closed issue [#1](https://github.com/gimenete/type-writer/issues/1) in [gimenete/type-writer](https://github.com/gimenete/type-writer)
+2. ❗️ Closed issue [#1270](https://github.com/shentao/vue-multiselect/issues/1270) in [shentao/vue-multiselect](https://github.com/shentao/vue-multiselect)
+3. ❗️ Opened issue [#901](https://github.com/glepnir/lspsaga.nvim/issues/901) in [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim)
+4. ❗️ Opened issue [#83](https://github.com/numToStr/FTerm.nvim/issues/83) in [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim)
+5. 🗣 Commented on [#876](https://github.com/glepnir/lspsaga.nvim/issues/876) in [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim)
 <!--END_SECTION:activity-->
 
 <p align="center">
