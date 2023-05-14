@@ -19,11 +19,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3573](https://github.com/wez/wezterm/issues/3573) in [wez/wezterm](https://github.com/wez/wezterm)
-2. ❗️ Opened issue [#3573](https://github.com/wez/wezterm/issues/3573) in [wez/wezterm](https://github.com/wez/wezterm)
-3. 🎉 Merged PR [#14](https://github.com/protiumx/simia/pull/14) in [protiumx/simia](https://github.com/protiumx/simia)
-4. 💪 Opened PR [#14](https://github.com/protiumx/simia/pull/14) in [protiumx/simia](https://github.com/protiumx/simia)
-5. ❗️ Closed issue [#1](https://github.com/gimenete/type-writer/issues/1) in [gimenete/type-writer](https://github.com/gimenete/type-writer)
+1. 💪 Opened PR [#1068](https://github.com/nvimdev/lspsaga.nvim/pull/1068) in [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim)
+2. 🗣 Commented on [#3573](https://github.com/wez/wezterm/issues/3573) in [wez/wezterm](https://github.com/wez/wezterm)
+3. ❗️ Opened issue [#3573](https://github.com/wez/wezterm/issues/3573) in [wez/wezterm](https://github.com/wez/wezterm)
+4. 🎉 Merged PR [#14](https://github.com/protiumx/simia/pull/14) in [protiumx/simia](https://github.com/protiumx/simia)
+5. 💪 Opened PR [#14](https://github.com/protiumx/simia/pull/14) in [protiumx/simia](https://github.com/protiumx/simia)
 <!--END_SECTION:activity-->
 
 <p align="center">
