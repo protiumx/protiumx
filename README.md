@@ -19,11 +19,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1068](https://github.com/nvimdev/lspsaga.nvim/pull/1068) in [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim)
-2. 🗣 Commented on [#3573](https://github.com/wez/wezterm/issues/3573) in [wez/wezterm](https://github.com/wez/wezterm)
-3. ❗️ Opened issue [#3573](https://github.com/wez/wezterm/issues/3573) in [wez/wezterm](https://github.com/wez/wezterm)
-4. 🎉 Merged PR [#14](https://github.com/protiumx/simia/pull/14) in [protiumx/simia](https://github.com/protiumx/simia)
-5. 💪 Opened PR [#14](https://github.com/protiumx/simia/pull/14) in [protiumx/simia](https://github.com/protiumx/simia)
+1. 🎉 Merged PR [#15](https://github.com/protiumx/simia/pull/15) in [protiumx/simia](https://github.com/protiumx/simia)
+2. 💪 Opened PR [#15](https://github.com/protiumx/simia/pull/15) in [protiumx/simia](https://github.com/protiumx/simia)
+3. 💪 Opened PR [#1068](https://github.com/nvimdev/lspsaga.nvim/pull/1068) in [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim)
+4. 🗣 Commented on [#3573](https://github.com/wez/wezterm/issues/3573) in [wez/wezterm](https://github.com/wez/wezterm)
+5. ❗️ Opened issue [#3573](https://github.com/wez/wezterm/issues/3573) in [wez/wezterm](https://github.com/wez/wezterm)
 <!--END_SECTION:activity-->
 
 <p align="center">
