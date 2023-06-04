@@ -19,11 +19,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/protiumx/simia/pull/16) in [protiumx/simia](https://github.com/protiumx/simia)
-2. 💪 Opened PR [#16](https://github.com/protiumx/simia/pull/16) in [protiumx/simia](https://github.com/protiumx/simia)
-3. 🎉 Merged PR [#15](https://github.com/protiumx/simia/pull/15) in [protiumx/simia](https://github.com/protiumx/simia)
-4. 💪 Opened PR [#15](https://github.com/protiumx/simia/pull/15) in [protiumx/simia](https://github.com/protiumx/simia)
-5. 💪 Opened PR [#1068](https://github.com/nvimdev/lspsaga.nvim/pull/1068) in [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim)
+1. ❗ Opened issue [#345](https://github.com/ray-x/go.nvim/issues/345) in [ray-x/go.nvim](https://github.com/ray-x/go.nvim)
+2. ❗ Opened issue [#1092](https://github.com/nvimdev/lspsaga.nvim/issues/1092) in [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim)
+3. 🎉 Merged PR [#17](https://github.com/protiumx/simia/pull/17) in [protiumx/simia](https://github.com/protiumx/simia)
+4. 💪 Opened PR [#17](https://github.com/protiumx/simia/pull/17) in [protiumx/simia](https://github.com/protiumx/simia)
+5. ❗ Opened issue [#343](https://github.com/ray-x/go.nvim/issues/343) in [ray-x/go.nvim](https://github.com/ray-x/go.nvim)
 <!--END_SECTION:activity-->
 
 <p align="center">
