@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Pull in Medium posts
+      - name: Pull in blog articles from feed
         uses: gautamkrishnar/blog-post-workflow@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
