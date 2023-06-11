@@ -19,11 +19,11 @@
 ### Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#345](https://github.com/ray-x/go.nvim/issues/345) in [ray-x/go.nvim](https://github.com/ray-x/go.nvim)
-2. ❗ Opened issue [#1092](https://github.com/nvimdev/lspsaga.nvim/issues/1092) in [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim)
-3. 🎉 Merged PR [#17](https://github.com/protiumx/simia/pull/17) in [protiumx/simia](https://github.com/protiumx/simia)
-4. 💪 Opened PR [#17](https://github.com/protiumx/simia/pull/17) in [protiumx/simia](https://github.com/protiumx/simia)
-5. ❗ Opened issue [#343](https://github.com/ray-x/go.nvim/issues/343) in [ray-x/go.nvim](https://github.com/ray-x/go.nvim)
+1. 🗣 Commented on [#4914](https://github.com/nvim-treesitter/nvim-treesitter/issues/4914) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+2. 🔒 Closed issue [#4914](https://github.com/nvim-treesitter/nvim-treesitter/issues/4914) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+3. ❗ Opened issue [#4914](https://github.com/nvim-treesitter/nvim-treesitter/issues/4914) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+4. ❗ Opened issue [#21](https://github.com/ray-x/guihua.lua/issues/21) in [ray-x/guihua.lua](https://github.com/ray-x/guihua.lua)
+5. ❗ Opened issue [#259](https://github.com/ellisonleao/gruvbox.nvim/issues/259) in [ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)
 <!--END_SECTION:activity-->
 
 <p align="center">
