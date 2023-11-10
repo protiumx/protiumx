@@ -1,8 +1,8 @@
 ## Hi there, I' Brian
 
 - Currently working with `golang`
-- Learning and playing around with `rust` and `elixir`
-- Interested in: Cyber Security, open source, algorithms, networking, electronics
+- Playing around with `rust` and `elixir`
+- Interested in: Cyber security, algorithms, electronics
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=protiumx&layout=compact&langs_count=8&hide=ruby,vimscript,vue,scss,html)
 
